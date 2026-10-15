@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+.khung {
+    width: 350px;
+    margin: 20px auto;
+    padding: 5px;
+    background-color: #bcc5cd;
+}
+
+h1 {
+    margin: 0;
+    color: #0c0c0a;
+    font-size: 32px;
+}
+
+.noidung {
+    margin: 5px 0;
+    padding: 12px;
+    background-color: #eae8e8;
+    border: 3px dashed rgb(26, 134, 177);
+    color: rgb(18, 18, 12);
+    font-size: 13px;
+    font-weight: bold;
+    overflow: auto;
+}
+
+.noidung img {
+    width: 120px;
+    float: left;
+    margin: 3px 10px 5px 0;
+}
+
+.noidung p {
+    margin: 3px;
+    line-height: 1.5;
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
